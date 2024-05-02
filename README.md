@@ -2,7 +2,7 @@
 
 Places you can find me on the web:
 
-- 🌐 [keybits.net](https://www.keybits.net) - personal website
+- 🌐 [www.keybits.net](https://www.keybits.net) - personal website
 - 🔗 [links.keybits.net](https://links.keybits.net/bookmarks/shared) - interesting links
 - 📷 [photos.keybits.net](https://photos.keybits.net) - selected photos
 - 🦋 [@keybits.net](https://bsky.app/profile/keybits.net) - short posts on Bluesky
