@@ -8,6 +8,8 @@ Places you can find me on the web:
 - 🦋 [@keybits.net](https://bsky.app/profile/keybits.net) - short posts on Bluesky
 - 📫 tom@keybits.net - send me an email!
 
+Most of my career has been working for 'developer tools' companies: CircleCI, GitLab, Algolia, Neptune.
+
 When I'm not in the garden, hiking or playing music, I'm working on web projects:
 
 - [PostOwl](https://www.postowl.com) - the easiest way to have your own blog / personal website
